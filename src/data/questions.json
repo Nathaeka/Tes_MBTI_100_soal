@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "question": "Kamu lebih suka hidup dengan:",
+    "options": [
+      { "text": "Keputusan yang sudah pasti dan pantang diubah", "dimension": "J" },
+      { "text": "Rencana yang fleksibel dan masih bisa diganti-ganti", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Kalau melihat sebuah fakta, kamu menganggapnya sebagai:",
+    "options": [
+      { "text": "Kenyataan yang apa adanya di depan mata", "dimension": "S" },
+      { "text": "Petunjuk awal untuk menemukan ide atau makna lain", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Kamu lebih ingin dikenal sebagai orang yang:",
+    "options": [
+      { "text": "Pintar, logis, dan masuk akal", "dimension": "T" },
+      { "text": "Penuh kasih sayang dan empati", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Dalam pergaulan, kamu merasa dirimu:",
+    "options": [
+      { "text": "Gampang berbaur dengan siapa saja", "dimension": "E" },
+      { "text": "Agak tertutup dan butuh waktu buat akrab", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Sifat orang yang mana yang lebih menyebalkan buatmu?",
+    "options": [
+      { "text": "Orang yang tidak adil", "dimension": "T" },
+      { "text": "Orang yang tidak punya hati / tega", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Secara umum, kamu melihat dirimu sebagai orang yang:",
+    "options": [
+      { "text": "Serius, tekun, dan fokus pada tujuan", "dimension": "J" },
+      { "text": "Santai, fleksibel, dan membiarkan hidup mengalir", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Dalam bekerja dengan tim, kamu lebih mementingkan:",
+    "options": [
+      { "text": "Pikiran yang sejalan dan argumen yang konsisten", "dimension": "T" },
+      { "text": "Hubungan antar teman yang akur dan harmonis", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Kamu lebih gampang nyambung ngobrol sama:",
+    "options": [
+      { "text": "Orang yang praktis, masuk akal, dan realistis", "dimension": "S" },
+      { "text": "Orang yang imajinatif, kreatif, dan *out of the box*", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Menurutmu, kemampuan mana yang lebih keren?",
+    "options": [
+      { "text": "Bisa mengatur dan menjadwalkan semuanya dengan rapi", "dimension": "J" },
+      { "text": "Bisa beradaptasi di situasi mendadak pakai apa aja yang ada", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Hal apa yang lebih bikin pikiranmu terganggu?",
+    "options": [
+      { "text": "Ada kerjaan yang dibiarkan menggantung belum selesai", "dimension": "J" },
+      { "text": "Terasa dikekang karena semuanya sudah telanjur diketok palu", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Saat ada rapat atau masalah, kamu lebih lega kalau:",
+    "options": [
+      { "text": "Masalah itu dibahas logikanya sampai benar-benar tuntas", "dimension": "T" },
+      { "text": "Semua pihak cepat dapat kesepakatan biar damai", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Saat mengambil keputusan sulit, kamu paling sering memakai:",
+    "options": [
+      { "text": "Aturan, standar, dan logika murni", "dimension": "T" },
+      { "text": "Perasaan, kata hati, dan mempertimbangkan nilai moral", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Kalau mau liburan atau *hangout*, kamu lebih suka:",
+    "options": [
+      { "text": "Acara yang jadwalnya udah disusun jelas dari awal", "dimension": "J" },
+      { "text": "Acara dadakan yang dibikin spontan aja", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Menurutmu, hal-hal di hidup ini sebaiknya:",
+    "options": [
+      { "text": "Direncanakan dengan hati-hati dari jauh hari", "dimension": "J" },
+      { "text": "Dibiarkan terjadi mengalir apa adanya", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Kamu lebih bangga saat dirimu berhasil menjadi orang yang:",
+    "options": [
+      { "text": "Punya prinsip kuat dan tegas memegang kebenaran", "dimension": "T" },
+      { "text": "Sangat setia, loyal, dan peduli pada orang di sekitarmu", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Kalau tiba-tiba nomor nggak dikenal *video call* / nelpon kamu:",
+    "options": [
+      { "text": "Langsung kamu angkat buat cari tahu", "dimension": "E" },
+      { "text": "Biarin aja dulu sampai mati, paling nanti dia nge-chat", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Saat belanja barang diskon, kamu merasa lebih tenang kalau:",
+    "options": [
+      { "text": "Sudah *checkout* dan barang pasti dikirim", "dimension": "J" },
+      { "text": "Uangnya belum dipakai jadi masih punya pilihan buat ganti barang lain", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Gaya hidup yang menurutmu lebih oke adalah:",
+    "options": [
+      { "text": "Memastikan semuanya tertata dan terkontrol", "dimension": "J" },
+      { "text": "Santai aja, apa yang mau terjadi biarlah terjadi", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Kamu akan lebih percaya pada argumen yang berlandaskan pada:",
+    "options": [
+      { "text": "Fakta, data, dan bukti nyata", "dimension": "S" },
+      { "text": "Prinsip, teori, dan makna tersembunyi", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Dari dalam hati, kamu menganggap dirimu sebagai orang yang:",
+    "options": [
+      { "text": "Cukup keras kepala, blak-blakan, dan realistis", "dimension": "T" },
+      { "text": "Berhati lembut, perasa, dan gampang nggak enakan", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Otakmu lebih sering kepikiran tentang:",
+    "options": [
+      { "text": "Apa yang sedang terjadi di kehidupan nyatamu sekarang", "dimension": "S" },
+      { "text": "Apa yang mungkin terjadi di masa depan", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Menurutmu mana sifat yang lebih parah?",
+    "options": [
+      { "text": "Terlalu emosional atau baperan", "dimension": "T" },
+      { "text": "Terlalu kaku, dingin, dan tidak punya perasaan", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Kalau bingung, kamu lebih sering mengambil jalan keluar berdasarkan:",
+    "options": [
+      { "text": "Pengalaman masa lalu yang sudah terbukti", "dimension": "S" },
+      { "text": "Firasat atau *feeling* dari dalam batin", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Kamu lebih suka bekerja dengan cara:",
+    "options": [
+      { "text": "Punya *deadline* pasti biar jelas selesainya kapan", "dimension": "J" },
+      { "text": "Kapan aja, dikerjain waktu lagi dapet pencerahan aja", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Menurutmu, anak-anak zaman sekarang itu kurang diajari buat:",
+    "options": [
+      { "text": "Terjun langsung biar bisa mandiri di dunia nyata", "dimension": "S" },
+      { "text": "Mengasah imajinasi dan ngebayangin mimpi yang besar", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Kalau lagi datang ke kondangan atau acara besar, kamu biasanya:",
+    "options": [
+      { "text": "Ngobrol sama siapa aja, seru nambah kenalan baru", "dimension": "E" },
+      { "text": "Nempel terus sama beberapa temen yang udah kamu kenal aja", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Kamu menganggap sifatmu lebih:",
+    "options": [
+      { "text": "Tegas, kadang ceplas-ceplos", "dimension": "T" },
+      { "text": "Lembut dan hati-hati jaga perasaan orang", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Dalam hidupmu, apa yang lebih sering jadi 'sopir' pengambil keputusan?",
+    "options": [
+      { "text": "Logika di kepalamu", "dimension": "T" },
+      { "text": "Perasaan di hatimu", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Kamu tipe orang yang bertindak dengan:",
+    "options": [
+      { "text": "Sangat hati-hati dan dipikirin matang-matang", "dimension": "J" },
+      { "text": "Cenderung impulsif, spontan *let's go* aja", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Saat baru berurusan dengan orang lain di kerjaan/tugas, kamu:",
+    "options": [
+      { "text": "Biasa aja, tetap profesional dan objektif ke tujuannya", "dimension": "T" },
+      { "text": "Langsung pengen kenal secara personal biar lebih akrab", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Waktu kamu lagi nge-judge atau menilai orang, kamu lebih fokus ke:",
+    "options": [
+      { "text": "Aturan apa yang dia langgar (fokus pada aturan)", "dimension": "T" },
+      { "text": "Alasan dan kondisi yang bikin dia ngelakuin itu (fokus pada keadaan)", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Kamu akan merasa lebih lega dan nyaman kalau:",
+    "options": [
+      { "text": "Keputusan final sudah diketok palu", "dimension": "J" },
+      { "text": "Keputusan belum dibuat, opsi masih kebuka lebar", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Kamu lebih ingin jadi tipe teman yang:",
+    "options": [
+      { "text": "Berpikir adil dan selalu membela yang benar", "dimension": "T" },
+      { "text": "Penuh simpati dan selalu ada buat jadi tempat nangis", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Gaya pertemananmu lebih condong ke:",
+    "options": [
+      { "text": "Punya BANYAK banget temen/kenalan buat *hangout* seru-seruan", "dimension": "E" },
+      { "text": "Punya SEDIKIT temen, tapi hubungannya bener-bener *deep*", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Kalau lagi di ruang tunggu dan ada orang asing di sebelah, kamu:",
+    "options": [
+      { "text": "Santai aja basa-basi ngajak ngobrol duluan", "dimension": "E" },
+      { "text": "Diam aja nunggu ditanya duluan (atau pura-pura main HP)", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Menurutmu, tokoh pahlawan mana yang lebih patut dipuji?",
+    "options": [
+      { "text": "Yang pikirannya super tajam, jenius, dan logis", "dimension": "T" },
+      { "text": "Yang rela berkorban dan perasaannya tulus ke masyarakat", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Kamu lebih mudah terkesan oleh orang yang punya:",
+    "options": [
+      { "text": "Prinsip hidup yang kokoh dan nggak gampang goyah", "dimension": "T" },
+      { "text": "Emosi yang tulus dan jujur ngebuka perasaannya", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Di kelompokmu, kamu sering kebagian peran jadi:",
+    "options": [
+      { "text": "Si pemikir yang berkepala dingin kalau ada krisis", "dimension": "T" },
+      { "text": "Si *caregiver* berhati hangat yang nenangin semua orang", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Mana yang rasanya lebih damai buatmu?",
+    "options": [
+      { "text": "Tahu pasti jadwal hari ini ngapain aja dari pagi sampai malam", "dimension": "J" },
+      { "text": "Nggak ada jadwal sama sekali, bebas mau ngapain sesukanya", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Teman-temanmu lebih sering mengenali kamu sebagai:",
+    "options": [
+      { "text": "Orang yang sangat praktis dan berpijak di dunia nyata", "dimension": "S" },
+      { "text": "Orang yang tukang ngayal, pemikir, dan idenya banyak", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Kalau harus nelpon bos atau *customer service*, kamu biasanya:",
+    "options": [
+      { "text": "Langsung angkat telepon dan ngomong ngalir aja", "dimension": "E" },
+      { "text": "Bikin teks (*script*) di otak dulu atau nulis apa yang mau diomongin", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Kamu lebih *pede* membuat penilaian tentang sesuatu berdasarkan:",
+    "options": [
+      { "text": "Data, fakta, dan alasan yang masuk akal", "dimension": "T" },
+      { "text": "Nilai-nilai kemanusiaan dan apa yang kamu yakini benar di hati", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Kamu lebih sering menjalani hari dengan:",
+    "options": [
+      { "text": "Rutinitas yang terstruktur biar produktif", "dimension": "J" },
+      { "text": "Ikutin *mood* dan suasana hati aja hari itu mau ngapain", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Menurutmu, sebuah buku atau omongan itu bagusnya:",
+    "options": [
+      { "text": "Langsung ke intinya aja (*to the point*)", "dimension": "S" },
+      { "text": "Dikemas pakai perumpamaan dan bahasa sastra yang indah", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Saat dengerin presentasi, kamu paling tertarik kalau isinya:",
+    "options": [
+      { "text": "Logis, data-datanya kuat, dan meyakinkan", "dimension": "T" },
+      { "text": "Punya cerita *background* perjuangan yang menyentuh hati", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Kalau disuruh nulis *caption* IG atau blog, kamu lebih suka:",
+    "options": [
+      { "text": "Deskripsi yang jelas, harfiah, dan nyeritain ceritanya apa adanya", "dimension": "S" },
+      { "text": "Puitis, penuh kata kiasan, lirik lagu, atau *quotes* bijak", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Mana yang paling susah buat kamu lakukan?",
+    "options": [
+      { "text": "Berpura-pura ngertiin perasaan orang padahal menurutmu dia nggak logis", "dimension": "T" },
+      { "text": "Berpura-pura baik demi manfaatin orang lain buat keuntungan", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Tipe orang visioner yang mikir jauh puluhan tahun ke depan itu:",
+    "options": [
+      { "text": "Kadang nyebelin karena kurang napak ke bumi (kurang realistis)", "dimension": "S" },
+      { "text": "Sangat memikat dan seru banget diajak ngobrol semalaman", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Di dalam kamarmu, barang-barang kesayanganmu cenderung:",
+    "options": [
+      { "text": "Punya tempat khusus dan ditata dengan teratur", "dimension": "J" },
+      { "text": "Ditaruh di mana aja yang gampang kelihatan pas lagi butuh", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Kamu bakal *melting* atau berbunga-bunga kalau dipuji:",
+    "options": [
+      { "text": "\"Kamu cerdas dan solutif banget ya!\"", "dimension": "T" },
+      { "text": "\"Kamu sabar dan peka banget ya perasaannya!\"", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Gaya hidupmu lebih dominan:",
+    "options": [
+      { "text": "Direncanakan, ditimbang-timbang dulu baru gerak", "dimension": "J" },
+      { "text": "Spontan, tabrak aja dulu urusan belakang", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Dalam *circle* pergaulan, statusmu biasanya:",
+    "options": [
+      { "text": "Si paling *update* kabar terbaru dan gosip temen-temen", "dimension": "E" },
+      { "text": "Si kudet yang sering ketinggalan info baru tahu belakangan", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Kalau lagi butuh partner tugas/kerja, kamu cari orang yang:",
+    "options": [
+      { "text": "Skill-nya kepake dan berguna buat ngerjain tugasnya (kompeten)", "dimension": "T" },
+      { "text": "Sifatnya cocok dan pandangannya sejalan sama kamu (nyaman)", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Akal sehat dan kelaziman orang pada umumnya itu:",
+    "options": [
+      { "text": "Sebaiknya langsung diikutin aja karena sudah terbukti benar", "dimension": "S" },
+      { "text": "Kadang masih bisa dipertanyakan dan diganti pakai cara baru", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Kamu lebih nyaman kalau punya pekerjaan yang:",
+    "options": [
+      { "text": "Jelas tanggung jawabnya, jenjang karirnya, dan ada kontrak", "dimension": "J" },
+      { "text": "Aturannya santai, jam kerjanya fleksibel yang penting kelar", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Sifat teman yang mana yang bikin kamu lebih kesal?",
+    "options": [
+      { "text": "Teman yang terlalu baik sampai gampang dimanfaatin orang lain", "dimension": "F" },
+      { "text": "Teman yang terlalu keras dan mulutnya tajam banget kalau ngritik", "dimension": "T" }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Kamu sangat mensyukuri kemampuanmu yang bisa:",
+    "options": [
+      { "text": "Mewujudkan ide jadi hal yang nyata dan ada buktinya", "dimension": "S" },
+      { "text": "Punya imajinasi liar yang bikin pikiranmu kaya akan ide", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Dalam menjalani hidup, kamu lebih memprioritaskan:",
+    "options": [
+      { "text": "Rasa aman, kepastian, dan jalan yang stabil", "dimension": "J" },
+      { "text": "Pikiran yang bebas terbuka dan selalu siap eksplor petualangan baru", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Berada di lingkungan baru yang isinya orang-orang nggak dikenal bikin kamu:",
+    "options": [
+      { "text": "Jadi semangat, energi *full*, dan seru", "dimension": "E" },
+      { "text": "Cepat capek mental dan rasanya pengen cepet pulang", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Mana yang paling bikin kamu frustrasi?",
+    "options": [
+      { "text": "Cuma berkhayal tinggi di awang-awang tanpa hasil nyata", "dimension": "S" },
+      { "text": "Terjebak ngerjain rutinitas harian yang ngebosenin dan gitu-gitu aja", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Kalau janjian ketemuan, kamu orangnya:",
+    "options": [
+      { "text": "Usahain banget tepat waktu atau datang lebih awal", "dimension": "J" },
+      { "text": "Lebih santai, kadang telat dikit atau ngaret nggak apa-apalah", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Waktu kamu ngerjain rutinitas sehari-hari (masak, beres-beres, kerja):",
+    "options": [
+      { "text": "Lakuin pakai cara standar yang udah umum aja biar cepet", "dimension": "S" },
+      { "text": "Sering nyoba-nyoba bereksperimen pakai cara versimu sendiri", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Waktu dengerin orang ngomong, otakmu otomatis:",
+    "options": [
+      { "text": "Nangkep maknanya sesuai persis sama yang dia ucapin", "dimension": "S" },
+      { "text": "Nganalisa dan nebak-nebak \"maksud terselubung\" dari omongannya", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Kamu lebih bangga disebut sebagai orang yang:",
+    "options": [
+      { "text": "Sangat realistis, praktis, dan nggak neko-neko", "dimension": "S" },
+      { "text": "Visioner, suka bikin teori, dan pintar baca peluang (*spekulatif*)", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Saat ngejalanin sebuah *project* bareng-bareng, kamu maunya:",
+    "options": [
+      { "text": "Semua udah *fix* dibagi tugasnya dan nggak boleh diganti lagi", "dimension": "J" },
+      { "text": "Biarkan mengalir dan tetep fleksibel menyesuaikan sikon nanti", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Waktu datang ke acara nongkrong/pesta yang rame banget:",
+    "options": [
+      { "text": "Makin larut malam malah makin 'on' dan bersemangat", "dimension": "E" },
+      { "text": "Baterai sosial cepet habis, baru bentar rasanya udah pengen pamit", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Di dalam sebuah hubungan (pacaran/pertemanan), komitmen atau kesepakatan itu:",
+    "options": [
+      { "text": "Harus jelas batasan hitam putihnya biar nggak bingung jalaninnya", "dimension": "J" },
+      { "text": "Bisa diobrolin dan disesuaikan lagi mengikuti keadaan", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Jujur, kamu merasa kalau otakmu itu:",
+    "options": [
+      { "text": "Lebih condong ngerjain hal-hal praktis dan teknis", "dimension": "S" },
+      { "text": "Lebih condong ngehasilin ide-ide kreatif dan artistik", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Kalau lagi di kereta atau pesawat, kamu:",
+    "options": [
+      { "text": "Gampang ngobrol panjang lebar sama penumpang di sebelah", "dimension": "E" },
+      { "text": "Pakai *headset*, tidur, atau diem aja fokus sama diri sendiri", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Pekerjaan mana yang menurutmu paling asyik?",
+    "options": [
+      { "text": "Bagian lapangan yang langsung bikin dan ngejual barangnya", "dimension": "S" },
+      { "text": "Bagian *brainstorming* mikirin desain, inovasi, dan nyari konsepnya", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Libur panjang akhir pekan enaknya dihabiskan buat:",
+    "options": [
+      { "text": "Jalan-jalan, nongkrong seru, atau nyamperin temen-temen", "dimension": "E" },
+      { "text": "Me-time *marathon* film, main game, atau rebahan santai di kasur", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Kalau grup chat WhatsApp lagi rame banget ngebahas sesuatu, kamu:",
+    "options": [
+      { "text": "Ikut heboh nimbrung balesin chat temen-temen", "dimension": "E" },
+      { "text": "Males ngetik, cuma *scroll* aja jadi pembaca setia", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Kalau lagi bete banget atau banyak masalah, pelarian pertamamu:",
+    "options": [
+      { "text": "Cari orang buat curhat ngeluarin semua unek-unek biar plong", "dimension": "E" },
+      { "text": "Menjauh dari orang-orang, butuh ketenangan buat mikir sendiri", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Orang-orang yang baru kenal biasanya ngeliat kamu sebagai sosok yang:",
+    "options": [
+      { "text": "Gampang ditebak, ekspresif, dan ceria", "dimension": "E" },
+      { "text": "Misterius, kalem, dan susah ditebak lagi mikir apa", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Habis pulang dari kampus/kantor yang seharian super sibuk, kamu butuh:",
+    "options": [
+      { "text": "Menceritakan kericuhan harimu ke orang rumah atau pacar", "dimension": "E" },
+      { "text": "Waktu hening sebentar di kamar tanpa diajak ngobrol siapa pun", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Waktu masa-masa ujian sekolah/kuliah, gaya belajarmu lebih efektif kalau:",
+    "options": [
+      { "text": "Belajar kelompok sambil tanya jawab bareng-bareng", "dimension": "E" },
+      { "text": "Belajar sendirian di tempat sepi biar materinya meresap", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Kalau disuruh ngomong pakai *mic* di depan orang banyak:",
+    "options": [
+      { "text": "Biasa aja sih, malah seru bisa jadi pusat perhatian bentar", "dimension": "E" },
+      { "text": "Deg-degan parah, kalau bisa ngeles mending lempar ke teman aja", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Waktu tiba-tiba dapet ide brilian di otakmu, kamu langsung:",
+    "options": [
+      { "text": "Nyari temen buat ngebahas bareng-bareng ide ini bagus apa nggak", "dimension": "E" },
+      { "text": "Dipikirin mateng-mateng, diobrak-abrik di otak sendiri dulu", "dimension": "I" }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Kalau pilih tontonan Netflix atau YouTube, kamu lebih tertarik dokumenter tentang:",
+    "options": [
+      { "text": "Kisah nyata, kasus kriminal asli, atau *vlog* orang sehari-hari", "dimension": "S" },
+      { "text": "Teori konspirasi, misteri alam semesta, atau fiksi ilmiah", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Kalau lagi ngerakit barang baru (misal rak buku IKEA), kamu:",
+    "options": [
+      { "text": "Teliti baca buku petunjuknya langkah demi langkah dari halaman pertama", "dimension": "S" },
+      { "text": "Buka *box*-nya langsung tebak-tebak rakit pakai intuisi", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Saat lagi diam melamun, kepalamu lebih sering jalan-jalan memikirkan:",
+    "options": [
+      { "text": "Cucian yang belum diangkat dan tugas besok yang harus di-email", "dimension": "S" },
+      { "text": "Gimana ya kehidupan di masa depan kalau AI bisa gantiin manusia?", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Ide mana yang lebih pantas diacungi jempol?",
+    "options": [
+      { "text": "Ide simpel tapi terbukti langsung ngasih duit/hasil di hari itu juga", "dimension": "S" },
+      { "text": "Ide yang bener-bener jenius revolusioner walau wujudinnya susah", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Kalau jalan-jalan ke museum/candi sejarah, kamu lebih asyik nikmatin:",
+    "options": [
+      { "text": "Bentuk bangunannya, hawanya, dan indahnya ukiran-ukirannya", "dimension": "S" },
+      { "text": "Bener-bener mikirin pesan apa ya yang mau disampein pembuat masa lalu", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Cara belajar yang paling cepet masuk ke otakmu adalah:",
+    "options": [
+      { "text": "Dikasih lihat contoh praktek nyatanya step-by-step secara berurutan", "dimension": "S" },
+      { "text": "Dikasih tahu konsep besar, pondasi teori, dan logikanya dulu", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Kalau lagi coba ngejelasin hal ribet ke temenmu, kamu biasanya ngomong:",
+    "options": [
+      { "text": "\"Jadi intinya kejadian aslinya tuh gini, kemarin dia ngomong A terus B.\"", "dimension": "S" },
+      { "text": "\"Gini lho, ibaratnya tuh kayak kamu lagi main catur, terus bidak lu dimakan.\"", "dimension": "N" }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Temenmu curhat sambil nangis karena habis dimarahin bos. Kamu spontan:",
+    "options": [
+      { "text": "Ngasih tahu letak kesalahannya biar besok kerjanya lebih bener", "dimension": "T" },
+      { "text": "Nenangin pundaknya, dengerin aja, dan bilang bosnya emang lagi resek", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Kamu lebih bangga saat dibilang teman-teman sebagai pribadi yang:",
+    "options": [
+      { "text": "Mental baja, tangguh, dan logikanya jalan terus walau diserang", "dimension": "T" },
+      { "text": "Sangat peduli, pendengar yang baik, dan hatinya selembut sutra", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Kalau lagi beda pendapat sama orang lain, prioritas utamamu adalah:",
+    "options": [
+      { "text": "Gimana caranya ngebuktiin argumenku benar pakai fakta telak", "dimension": "T" },
+      { "text": "Gimana caranya obrolan tetap aman biar nggak ada yang tersinggung", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Keputusan mana yang lebih enak kamu ambil di posisimu?",
+    "options": [
+      { "text": "Keputusan paling efisien walau mungkin ada 1-2 orang yang sakit hati", "dimension": "T" },
+      { "text": "Keputusan yang merangkul semua orang walau harus buang-buang duit/waktu", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Menurutmu hal yang bikin dunia hancur sekarang ini adalah karena:",
+    "options": [
+      { "text": "Banyak orang bodoh yang nggak mau mikir rasional", "dimension": "T" },
+      { "text": "Banyak orang jahat yang udah kehilangan empati kemanusiaannya", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Pas lagi mau beli HP mahal, hal yang paling bikin kamu ketok palu buat beli adalah:",
+    "options": [
+      { "text": "Spek kamera, chipset RAM, dan perbandingan harga di atas kertas", "dimension": "T" },
+      { "text": "Desain lucunya, *feeling* pas dipegang, dan kepuasan secara emosional", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Kalau kamu jadi bos *startup*, kamu mau dicitrakan sebagai bos yang:",
+    "options": [
+      { "text": "Adil, selalu kasih target obyektif, tegas ngasih *reward & punishment*", "dimension": "T" },
+      { "text": "Mengayomi layaknya keluarga, siap bantu *healing* anak buah", "dimension": "F" }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Coba cek kamar atau meja kerjamu sekarang, kondisinya:",
+    "options": [
+      { "text": "Cenderung selalu dirapikan, semua barang dikasih kotak atau tempat khusus", "dimension": "J" },
+      { "text": "Kapal pecah sih berantakan, TAPI anehnya kamu tahu persis letak barangmu", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Pas mau pergi ke luar kota, kamu tipe anak *traveling* yang:",
+    "options": [
+      { "text": "Bikin *itinerary*, pesen hotel, pesen tiket semuanya jauh-jauh hari", "dimension": "J" },
+      { "text": "Beli tiket h-1, berangkat aja pakai ransel, hotel urusan di stasiun nanti", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Dalam urusan menyelesaikan tugas kampus/kerjaan jelang *deadline*:",
+    "options": [
+      { "text": "Disicil dikit-dikit dari minggu lalu biar pas malam terakhir bisa tidur pulas", "dimension": "J" },
+      { "text": "Sistem Kebut Semalam (SKS) andalan! Ide ajaib malah keluar pas kepepet!", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Lagi udah mandi wangi siap jalan, eh temenmu telfon tiba-tiba batalin janji. Reaksimu:",
+    "options": [
+      { "text": "Kesel banget karena ngerusak jadwal dan rencanamu hari ini", "dimension": "J" },
+      { "text": "Santai cuy! Lumayan bisa ganti daster lagi rebahan lanjut nonton drakor", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Gaya kerjamu bakal maksimal banget kalau kamu dapet atasan yang:",
+    "options": [
+      { "text": "Ngasih *list* prioritas target hari ini dengan urutan yang super jelas", "dimension": "J" },
+      { "text": "Ngasih target bebas kerjain gimanapun caranya, pokoknya Jumat kelar", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Memulai hobi baru (misal nge-gym atau sepeda) buat kamu artinya:",
+    "options": [
+      { "text": "Beli sepatu mahal, daftar *member* tahunan, dan pasang alarm jadwal serius", "dimension": "J" },
+      { "text": "Ikut-ikutan pinjem alat temen dulu, besok kalau males ya ganti hobi lain", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Di malam hari sebelum tidur, hatimu paling berbunga-bunga rasanya pas:",
+    "options": [
+      { "text": "Melihat buku *to-do list* harimu berhasil kamu coret satu-satu dengan spidol", "dimension": "J" },
+      { "text": "Mengingat-ingat kelakuan seru dan kejadian random *unexpected* yang tadi terjadi", "dimension": "P" }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Kamu sangat setuju dengan prinsip hidup yang bunyinya:",
+    "options": [
+      { "text": "Kerja dan bereskan kewajiban duluan yang pusing, baru puas bersenang-senang", "dimension": "J" },
+      { "text": "Jalanin sambil nikmatin *vibes*-nya, kerja juga bisa dibikin main *fun*", "dimension": "P" }
+    ]
+  }
+]

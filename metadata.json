@@ -1,0 +1,6 @@
+{
+  "name": "MindType - Tes Kepribadian MBTI",
+  "description": "Aplikasi tes kepribadian MBTI interaktif dengan 100 pertanyaan lengkap, analisis 4 dimensi, deskripsi 16 tipe kepribadian, dan manajemen soal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
